@@ -23,7 +23,7 @@ const styles = StyleSheet.create({
     paddingVertical: 100,
   },
   halfContainer: { flex: 1, justifyContent: "flex-end", alignItems: "center" },
-  text: { fontSize: 30, color: "white" },
+  text: { fontSize: 30, color: "white", fontWeight: "600" },
 });
 
 export default Loading;
